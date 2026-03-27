@@ -2,8 +2,8 @@
 A Power BI dashboard analyzing sales performance, profitability, and product insights using DAX and star schema modeling.
 
 ## 📸 Dashboard Preview
-![Sales Overview](screenshots/page1.PNG)
-![Product & Revenue Analysis](screenshots/page2.PNG)
+![Sales Overview](screenshots/sales-overview.png)
+![Product & Revenue Analysis](screenshots/product-revenue-analysis.png)
 
 ---
 
@@ -68,7 +68,7 @@ Businesses often struggle to:
 ## 📊 Dashboard Overview
 
 ### 🔹 Page 1: Sales Overview (Executive Dashboard)
-![Sales Overview](screenshots/page1.PNG)
+![Sales Overview](screenshots/sales-overview.png)
 
 #### Key Features
 - KPI cards (Sales, Profit, Margin, YoY Growth)  
@@ -85,7 +85,7 @@ Businesses often struggle to:
 ---
 
 ### 🔹 Page 2: Product & Revenue Analysis
-![Product & Revenue Analysis](screenshots/page2.PNG)
+![Product & Revenue Analysis](screenshots/product-revenue-analysis.png)
 
 #### Key Features
 - Pareto analysis of revenue concentration  
