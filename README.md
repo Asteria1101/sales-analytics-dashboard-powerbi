@@ -1,4 +1,5 @@
 # 📊 Sales Analytics Dashboard (Power BI)
+A Power BI dashboard analyzing sales performance, profitability, and product insights using DAX and star schema modeling.
 
 ## 📸 Dashboard Preview
 ![Sales Overview](screenshots/page1.PNG)
@@ -11,6 +12,14 @@ This project presents a Power BI dashboard analyzing sales performance, profitab
 
 The dashboard is designed to provide actionable insights for business decision-making, including revenue trends, product performance, and customer revenue concentration.
 
+--- 
+
+## ❗ Problem Statement
+Businesses often struggle to:
+- Track sales and profit performance efficiently  
+- Identify top-performing products and categories  
+- Understand revenue concentration and associated risks
+- 
 ---
 
 ## 🚀 Key Highlights
